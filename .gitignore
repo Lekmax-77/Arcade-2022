@@ -5,6 +5,7 @@
 *.slo
 *.lo
 *.o
+*.so
 *.obj
 
 # Precompiled Headers
@@ -30,3 +31,9 @@
 *.exe
 *.out
 *.app
+arcade
+
+# Directory
+archive
+.vscode/
+
